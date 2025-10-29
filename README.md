@@ -49,13 +49,6 @@ This project leverages **machine learning models** to **predict cervical cancer 
 
 ---
 
-## 📷 Visualizations
-- **Correlation Matrix:** `visuals/correlation_matrix.png`  
-- **Feature Importance:** `visuals/feature_importance.png`  
-- **Confusion Matrix Examples:** `visuals/confusion_matrix.png`  
-
----
-
 ## 🔗 Published Paper
 - [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10058662)  
 - Citation:  
