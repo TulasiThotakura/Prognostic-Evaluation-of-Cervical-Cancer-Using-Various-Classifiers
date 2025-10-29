@@ -1,7 +1,7 @@
 # Prognostic Evaluation of Cervical Cancer Using Various Classifiers
 
 <p align="center">
-  <img src="./visuals/banner.jpg" alt="Cervical Cancer ML" width="600"/>
+  <img src="./visuals/Banner.jpg" alt="Cervical Cancer ML" width="600"/>
 </p>
 
 ## 📄 Overview
