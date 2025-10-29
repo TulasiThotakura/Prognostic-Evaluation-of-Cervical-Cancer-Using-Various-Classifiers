@@ -42,8 +42,8 @@ This project leverages **machine learning models** to **predict cervical cancer 
 | AdaBoost        | 89%    | Highly reliable |
 | Decision Tree   | 86%    | Accurate classification |
 | Logistic Reg.   | 83%    | Strong baseline model |
-| Random Forest   | 81%     | Slightly lower than top models |
-| ANN             | 84%     | Comparable to RF |
+| Random Forest   | 84%     | Slightly lower than top models |
+| ANN             | 81%     | Comparable to RF |
 
 - The study shows that **SVM, AdaBoost, DT, and LR** can accurately detect early cervical cancer using diagnostic data.
 
